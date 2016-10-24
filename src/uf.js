@@ -1,4 +1,4 @@
-export class UA {
+export class UF {
     
     constructor(count) {
         this.ids = [];
