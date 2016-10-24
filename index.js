@@ -1,4 +1,4 @@
-import { UF } from './src/ua';
+import { UF } from './src/uf';
 
 var uf = new UF(10);
 
